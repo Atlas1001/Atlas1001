@@ -10,9 +10,5 @@
 # Discord Activity
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/326950094580482048)](https://dsc.bio/Atlas1001)
 
-# Discord Servers
+# Discord Server
 [![Discord Widget Banner - Main](https://discordapp.com/api/guilds/343573044540997632/widget.png?style=banner3)](https://discord.link/titanpointe)
-[![Discord Widget Banner - Lab](https://discordapp.com/api/guilds/855939569496358912/widget.png?style=banner3)](https://discord.link/titanpointelab)
-
-# Guilded Server
-[Click Here](https://guilded.gg/TITANPOINTE)

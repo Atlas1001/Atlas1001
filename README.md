@@ -12,4 +12,4 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/326950094580482048?showDisplayName=true&hideActivity=whenNotUsed)](https://discord.com/users/326950094580482048)
 
 # Discord Server
-[![Discord Server Widget](https://discordapp.com/api/guilds/343573044540997632/widget.png?style=banner3)](https://discord.arion2000.xyz/api/discord?guildId=343573044540997632)
+[![Discord Server Widget](https://discord.com/api/guilds/343573044540997632/widget.png?style=banner4)](https://discord.arion2000.xyz/api/discord?guildId=343573044540997632)
